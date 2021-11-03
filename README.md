@@ -23,9 +23,24 @@ You'll also gain more experience with Linux this way.  Linux servers rule the da
 
 ## Things You Will Need
 
-1. A Computer (any OS, any processor archtiecture - this guide works on Apple M1 machines too)
-2. A Hypervisor for your computer to run Virtual Machines: VirtualBox, VMware Fusion (mac), VMware Workstion (Windows/Linux) are popular options.  Apple M1 users can pick from the M1 version of Parallels OR the currently free (!) version of VMware Fusion for Apple M1 - google search for their public beta that went live in Sept '21
+1. An internet connected Computer (any OS, any processor archtiecture - this guide works on Apple M1 machines too)
+
+2. A Hypervisor for your computer to run Virtual Machines: 
+
+    VirtualBox, VMware Fusion (mac), VMware Workstion (Windows/Linux) are popular options.  
+    
+    Apple M1 users can pick from the M1 version of Parallels OR the currently free (!) version of VMware Fusion for Apple M1 - google search for their public beta that went live in Sept '21
+
+    While they cost money, using VMware sourced hypervisors has benefits.  VMware still rules corporate datacenters, and by using VMware tools, one is exposed to the VMware vernacular and terminology, would could be beneficial.  They're products also work really well.
+
+    Virtualbox is of course free (and looks it)
+
 3. A .iso installer for Ubuntu 20.04.  
+
     For x86 CPU machines go here: https://releases.ubuntu.com/20.04/
+
     For ARM CPU machines (Apple M1) go here: https://ubuntu.com/download/server/arm
+
     Make sure you download Ubuntu 20.04 SERVER - NOT DESKTOP!!!
+
+4. 
