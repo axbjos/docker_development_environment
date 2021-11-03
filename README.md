@@ -75,3 +75,5 @@ Visual Studio Code has a extension that can be added that allows it to connect t
 Open Visual Studio Code, click on the "blocks" icon on the left side and search for "ssh".  Install the "Remote - SSH" extension from Microsoft.
 
 In the lower left a >< looking icon will appear.  Click on it.  Click on "Connect to Host."   Enter the username@ipaddress of your Virtual Machine.  VS Code will attempt to connect.  If successful it will prompt for a password.  This is the same password you used to log into the machine on the command line.
+
+
